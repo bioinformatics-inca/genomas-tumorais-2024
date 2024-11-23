@@ -1,3 +1,4 @@
+![Logo LBBC](https://github.com/user-attachments/assets/56d88bfe-0ac4-4c9f-969a-2a2d0fd1b080)
 # Disciplina Análise de Genomas Tumorais - PPGO INCA (2024)
 
 ## Introdução
