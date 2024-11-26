@@ -1,11 +1,21 @@
 # Aula 03 - Variantes Genômicas - Liliane Conteville
 
+Estruturas dos comandos no Linux:
+``comando [opções] [argumentos]``
+
+As opções definem parâmetros do comando e usualmente começam com o caractere “-” seguido de uma ou mais letras. 
+
+Os argumentos definem dados a serem usados no processamento do comando.
+
+→ Colar um comando no terminal: Ctrl + SHIFT + V
+
+
 ## Navegação
 
-``ls``
+``ls``  
 Lista os arquivos e diretórios no diretório atual.
 
-``cd Documentos``
+``cd Documentos``  
 Acessa o diretório chamado Documentos.
 
 ``ls``
@@ -44,7 +54,7 @@ Conta quantas linhas começam com @.
 
 ## Qualidade de sequências
 ``mkdir quali_raw``
-Cria o diretório quali_raw para armazenar os resultados.
+Cria o diretório quali_raw.
 
 ``fastqc dados/COLO829T.R1.fastq.gz --outdir quali_raw/``
 Analisa a qualidade do arquivo COLO829T.R1.fastq.gz usando o FastQC e salva os resultados em quali_raw.
@@ -109,18 +119,14 @@ Cria um índice para o arquivo BAM ordenado.
 
 ## Visualização do Alinhamento
 
-igv
+``igv`
 
+Algumas regiões interessantes:
 gi|568336017|gb|CM000669.2|:79,679,930-79,679,980
-
 gi|568336017|gb|CM000669.2|:79,757,420-79,757,521
-
 gi|568336017|gb|CM000669.2|:79,902,077-79,902,127
-
 gi|568336017|gb|CM000669.2|:79,856,089-79,856,497
-
 gi|568336017|gb|CM000669.2|:80,431,635-80,433,270
-
 gi|568336017|gb|CM000669.2|:80,454,505-80,454,606
 
 
