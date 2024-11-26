@@ -37,7 +37,10 @@ Os alunos desenvolverão habilidades e conhecimentos essenciais de bioinformáti
 ### Aula 2
 
 [Prática - Chamada de variantes somáticas](https://colab.research.google.com/github/clanna/genomas-tumorais-2024/blob/main/AulaPratica2_Chamada_de_variantes_somaticas.ipynb)
+
 ### Aula 3
+
+[Prática - Chamada de assinaturas mutacionais](https://colab.research.google.com/drive/1RFwTEbD-NtLwnZRYj7cRXwxo86QsTr62?usp=sharing)
 
 ### Aula 4
 
