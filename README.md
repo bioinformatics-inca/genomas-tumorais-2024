@@ -40,7 +40,7 @@ Os alunos desenvolverão habilidades e conhecimentos essenciais de bioinformáti
 
 ### Aula 3
 
-[Prática - Chamada de assinaturas mutacionais](https://colab.research.google.com/drive/1RFwTEbD-NtLwnZRYj7cRXwxo86QsTr62?usp=sharing)
+[Prática - Análise de assinaturas mutacionais](https://colab.research.google.com/drive/1RFwTEbD-NtLwnZRYj7cRXwxo86QsTr62?usp=sharing)
 
 ### Aula 4
 
