@@ -32,6 +32,8 @@ Os alunos desenvolverão habilidades e conhecimentos essenciais de bioinformáti
 
 ### Aula 1
 
+[Prática - Alinhamento de sequências](https://github.com/clanna/genomas-tumorais-2024/blob/main/AulaPratica1_Alinhamento.md)
+
 ### Aula 2
 
 [Prática - Chamada de variantes somáticas](https://colab.research.google.com/github/clanna/genomas-tumorais-2024/blob/main/AulaPratica2_Chamada_de_variantes_somaticas.ipynb)
