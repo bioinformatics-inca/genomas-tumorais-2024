@@ -122,6 +122,7 @@ Cria um índice para o arquivo BAM ordenado.
 ``igv``
 
 Algumas regiões interessantes:
+
 ``gi|568336017|gb|CM000669.2|:79,679,930-79,679,980``
 
 ``gi|568336017|gb|CM000669.2|:79,757,420-79,757,521``
