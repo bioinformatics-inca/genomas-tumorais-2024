@@ -85,7 +85,7 @@ Avalia a qualidade do arquivo COLO829T.R1_paired.fastq após a trimagem.
 ``ls quali_trim/``
 Lista os arquivos gerados em quali_trim.
 
-``firefox quali_trim/amostraX_R1_paired_fastqc.html``
+``firefox quali_trim/COLO829T.R1_paired_fastqc.html``
 Abre o resultado do FastQC no navegador Firefox.
 
 ##  Alinhamento
@@ -119,14 +119,20 @@ Cria um índice para o arquivo BAM ordenado.
 
 ## Visualização do Alinhamento
 
-``igv`
+``igv``
 
 Algumas regiões interessantes:
-gi|568336017|gb|CM000669.2|:79,679,930-79,679,980
-gi|568336017|gb|CM000669.2|:79,757,420-79,757,521
-gi|568336017|gb|CM000669.2|:79,902,077-79,902,127
-gi|568336017|gb|CM000669.2|:79,856,089-79,856,497
-gi|568336017|gb|CM000669.2|:80,431,635-80,433,270
-gi|568336017|gb|CM000669.2|:80,454,505-80,454,606
+
+``gi|568336017|gb|CM000669.2|:79,679,930-79,679,980``
+
+``gi|568336017|gb|CM000669.2|:79,757,420-79,757,521``
+
+``gi|568336017|gb|CM000669.2|:79,902,077-79,902,127``
+
+``gi|568336017|gb|CM000669.2|:79,856,089-79,856,497``
+
+``gi|568336017|gb|CM000669.2|:80,431,635-80,433,270``
+
+``gi|568336017|gb|CM000669.2|:80,454,505-80,454,606``
 
 
